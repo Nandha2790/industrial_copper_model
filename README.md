@@ -27,3 +27,8 @@ A machine learning regression model is developed to predict the selling price of
 - Robust algorithms to improve prediction accuracy
 ## Lead Classification
 A lead classification model is implemented to evaluate and classify leads. The model uses the STATUS variable with WON representing success and LOST representing failure. Data points with other STATUS values are removed to focus on lead classification accuracy.
+## License
+This project is licensed under the Apache-2.0 license - see the LICENSE.md file for details.
+
+## Contact
+For any questions or feedback, please contact Nandhagopal S at [nandha2790@gmail.com].
